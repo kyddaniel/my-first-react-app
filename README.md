@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Welocome to my-first-react-app!
+
+This is my self learning project for learning different finctionaiities in the React library, together with nodejs for server and database, and the hosting in [URL]!
+
+
+This project consist of a personal blog, where you can navigate to different artiles. More functions will be added to the page 
+
+This project also consists of a backend nodejs repository, to get more details into it please visit [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://www.google.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
